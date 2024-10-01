@@ -1,0 +1,6 @@
+To Summarize this analysis we had looked at school performance based on the average math and reading scores , Student budgets , passing percentages for Math and reading and total students. Data frames were also created 
+to view results by school size , school type and passing percentages for diffrent grades.
+
+One conclusion that can be drawn from this analysis is that the size(# of students) had an impact on students performance. I find that the small to medium size schools had better passing percentages then large schools as seen in the size summary section.
+
+another conclusion can be drawn from our scores by school type. In this analysis we see Charter schools have high passing percentages when compared to District schools. For example , percentage passing in math for Charter schools is 93.6% whereas District is 66.54%. This is a clear indication that students are benefiting academically in math and reading when attending Charter schools.
